@@ -10,7 +10,7 @@ $page_title = "Gebäudereinigung Deutschland wählen | Building Cleaning Guide";
 $meta_description = "Professionelles Gebäudereinigungsunternehmen wählen? Erfahren Sie die wichtigsten Kriterien für building cleaning in Germany. Standorte, Qualität & Kosten im Überblick.";
 $meta_keywords = "Gebäudereinigung Deutschland, building cleaning in Germany, professionelle Reinigungsdienste, Gebäudereinigung wählen";
 $author = "Reinigung Experten Deutschland";
-$canonical_url = "https://schwarz-weiss-reinigung.de/";
+$canonical_url = "https://professionelle-gebudereinigun-d2e1005d5a4e.herokuapp.com/";
 $last_updated = "November 2025";
 
 // Company Information
