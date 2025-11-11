@@ -7,7 +7,7 @@
 
 // Page Configuration
 $page_title = "Gebäudereinigung Deutschland wählen | Building Cleaning Guide";
-$meta_description = "Professionelles Gebäudereinigungsunternehmen wählen? Erfahren Sie die wichtigsten Kriterien für building cleaning in Germany. Standorte, Qualität & Kosten im Überblick.";
+$meta_description = "Professionelles Gebäudereinigungsunternehmen in Deutschland: Erfahren Sie, worauf es bei Qualität, Standorten und Kosten wirklich ankommt.";
 $meta_keywords = "Gebäudereinigung Deutschland, building cleaning in Germany, professionelle Reinigungsdienste, Gebäudereinigung wählen";
 $author = "Reinigung Experten Deutschland";
 $canonical_url = "https://professionelle-gebudereinigun-d2e1005d5a4e.herokuapp.com/";
@@ -89,6 +89,7 @@ $contract_points = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($meta_keywords); ?>">
     <meta name="author" content="<?php echo htmlspecialchars($author); ?>">
